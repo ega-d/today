@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: browsers.today
+Token: 5e7871760939d38aac9a674da1d30d9053847061ff5007d1d989637e3ad1cc24
